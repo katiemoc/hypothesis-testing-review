@@ -1,1 +1,1 @@
-# hypothesis-testing-review
+# Hypothesis Testing Review for DSC 80 SP25 at UC San Diego
